@@ -143,10 +143,6 @@ a:visited {
 .hero {
     background-image: url('./images/mobile/image-hero.jpg');
     background-size: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 80vh;
     width: 100vw;
     display: flex;
